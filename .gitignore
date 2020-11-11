@@ -1,0 +1,8 @@
+# Foursquare Credentials #
+##########################
+foursquare_credentials.py
+
+
+# OS generated files #
+.ipynb_checkpoints
+__pycache__/
