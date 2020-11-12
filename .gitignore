@@ -1,7 +1,7 @@
 # Foursquare Credentials #
 ##########################
 foursquare_credentials.py
-
+ceps.csv
 
 # OS generated files #
 .ipynb_checkpoints
