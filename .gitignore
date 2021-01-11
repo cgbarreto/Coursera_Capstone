@@ -7,3 +7,6 @@ ceps.csv
 .ipynb_checkpoints
 __pycache__/
 .DS_Store
+
+# Directory
+/Week\ 5\ The\ Battle\ of\ Neighborhood/old/
